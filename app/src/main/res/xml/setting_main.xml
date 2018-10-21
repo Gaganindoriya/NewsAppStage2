@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <ListPreference
+        android:defaultValue="technology"
+        android:entries="@array/settings_type_by_labels"
+        android:entryValues="@array/settings_type_by_values"
+        android:key="newstype"
+        android:title="News Type" />
+</PreferenceScreen>

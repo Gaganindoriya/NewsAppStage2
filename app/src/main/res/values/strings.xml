@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NewsAppStage2</string>
+
+    <string name="interneterrormessages">No internet connection!\nTry Again\nAfter Check internet connection\nthen Reopen the app</string>
+    <string name="contneterrormessages">No news found!\nbecause you lose Internet connection\nTry Again\nAfter Check internet connection\nthen Reopen the app</string>
+
+
+    <!--for news type-->
+    <string-array name="settings_type_by_labels">
+        <item>technology</item>
+        <item>business</item>
+        <item>film</item>
+    </string-array>
+
+    <string-array name="settings_type_by_values">
+        <item>technology</item>
+        <item>business</item>
+        <item>film</item>
+    </string-array>
+
+</resources>
